@@ -2,3 +2,5 @@
 
 Little mode for emacs. When enabled, everything you put into kill-ring will be
 appended to the last entry
+
+The command is ~always-append-mode~
