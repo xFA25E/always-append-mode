@@ -1,0 +1,4 @@
+#+TITLE: Always append mode
+
+Little mode for emacs. When enabled, put into kill ring will be appended to the
+last entry
