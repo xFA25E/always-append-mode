@@ -31,4 +31,4 @@ Create `append-next-kill' advice :before functions in
       (advice-remove func #'always-append--advice))))
 
 (provide 'always-append-mode)
-;;; always-append.el ends here
+;;; always-append-mode.el ends here
